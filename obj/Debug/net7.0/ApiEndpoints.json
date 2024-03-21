@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "dig_rt_monitorpedidoserros.controllers.ErrosPedidosController",
+    "Method": "Get",
+    "RelativePath": "ErrosPedidos/Erros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

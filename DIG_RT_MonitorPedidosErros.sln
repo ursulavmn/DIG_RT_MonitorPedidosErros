@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIG_RT_MonitorPedidosErros", "DIG_RT_MonitorPedidosErros.csproj", "{CB7EBEEA-4FA3-4CE2-A149-CB6583D2C6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB7EBEEA-4FA3-4CE2-A149-CB6583D2C6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB7EBEEA-4FA3-4CE2-A149-CB6583D2C6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB7EBEEA-4FA3-4CE2-A149-CB6583D2C6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB7EBEEA-4FA3-4CE2-A149-CB6583D2C6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCE4B06A-4549-4D74-A2A4-FA23A9D3F6C3}
+	EndGlobalSection
+EndGlobal

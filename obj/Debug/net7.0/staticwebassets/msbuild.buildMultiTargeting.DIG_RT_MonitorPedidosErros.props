@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DIG_RT_MonitorPedidosErros.props" />
+</Project>
